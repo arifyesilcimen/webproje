@@ -1,7 +1,9 @@
-# webproje
- WEB TEKNOLOJİLERİ PROJE ÖDEVİM İÇİN DETAYLARI AŞAĞIDA YAZDIM  
-* Web sitemin giriş kısmında kendimi tanıtarak resim yüklemeyi düşünüyorum.
-* Alt taraflara sosyal medya hesapları.
-* Genel olarak hocaının istediklerini
-* Kodları ve Görselleri zaman zaman yükleyeceğim.
-
+Web Teknolojileri Projesi
+1.	Proje genel olarak kendimi ve şehrimi tanıttığım bir blog sitesi şeklinde olacaktır.
+2.	Projede Hakkımda,CV,Şehrim,İletişim ve Login sayfaları olacaktır.
+3.	Hakkımda sayfasında genel olarak hobilerimden, sevdiğim aktivitelerden bahsedilecektir.
+4.	CV sayfasında table etiketi ve diğer etiketler kullanılarak eğitim bilgilerinin yer aldığı bir cv oluşturulacaktır.
+5.	Şehrim sayfasında İzmir ili tanıtılacaktır.
+6.	İletişim sayfasında HTML form elemanları kullanılarak bir form oluşturulacak, bu form Javascript ile sayfa içerisinde uygun doldurulup doldurulmadığı denetlenecek ve öyle gönderilecektir. Gönderilen form bir PHP sayfasında ilgili değerler karşılanarak bir table ile ekrana yazılacaktır.
+7.	Login sayfasında veri tabanı kullanmadan bizim belirlediğimiz bir kullanıcı adı ve şifreyle giriş sağlanacak, bu giriş Javascript ile denetlenecek ve giriş sağlandığında kullanıcıya hoşgeldin mesajı verilecektir.
+8.	Proje responsive yapıda olacak ve HTML,CSS,Javascript ve PHP kullanılacaktır. 
